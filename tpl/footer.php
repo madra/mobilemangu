@@ -1,3 +1,4 @@
+
 <?php
 #set the javascript
 while (list($key,$value) = each($ui->js)) {
@@ -7,7 +8,6 @@ while (list($key,$value) = each($ui->js)) {
                     ";
             }
 ?>
-<div class="footer"></div>
 </body>
 </html>
 
